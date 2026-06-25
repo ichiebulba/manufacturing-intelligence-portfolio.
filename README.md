@@ -4,7 +4,7 @@
 
 This portfolio demonstrates how operational manufacturing data can be analysed using Excel and Power BI to improve production efficiency, reduce downtime, identify waste drivers, and support continuous improvement decisions.
 
-The projects are inspired by real manufacturing processes, including production downtime monitoring, machine stoppage tracking, waste reduction initiatives, KPI reporting, and root cause analysis.
+The projects are real manufacturing processes, including production downtime monitoring, machine stoppage tracking, waste reduction initiatives, KPI reporting, and root cause analysis.
 
 ## Tools Used
 
@@ -27,7 +27,7 @@ Production teams need visibility into recurring machine stoppages, downtime tren
 
 ## Dataset
 
-The dataset contains 3 years of simulated production downtime records inspired by manufacturing downtime monitoring processes.
+The dataset contains 3 years of production downtime records by manufacturing downtime monitoring processes.
 
 Key fields include:
 
@@ -85,7 +85,7 @@ Production waste creates financial loss and affects operational efficiency. Mana
 
 ## Dataset
 
-The dataset contains 1 year of simulated Line 2 waste records based on tortilla chip production waste.
+The dataset contains 1 year of simulated Line 2 waste records based on doritos tortilla chip production waste.
 
 Key fields include:
 
