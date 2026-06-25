@@ -163,4 +163,9 @@ This portfolio supports applications for:
 
 ## About Me
 
-I am an operations professional transitioning into Business Intelligence and Analytics, with hands-on experience in manufacturing and logistics environments. My background has exposed me to production KPIs, downtime monitoring, waste reduction, operational reporting, and continuous improvement. I am developing Excel and Power BI skills to turn operational data into clear, actionable insights.
+I am an Operations and Business Intelligence Analyst with experience across manufacturing, logistics and project environments, combining hands-on 
+operational knowledge with data analysis, KPI reporting and dashboard development. Experienced in collecting, validating, cleaning and 
+analysing operational datasets using Microsoft Excel, Power BI and SQL basics to support process improvement, production performance 
+monitoring and stakeholder reporting. Strong exposure to manufacturing analytics through production downtime tracking, SPARK operational 
+monitoring, root cause investigation and waste reduction initiatives. Able to translate operational issues into clear insights, reports and 
+dashboards that support better business decisions.
